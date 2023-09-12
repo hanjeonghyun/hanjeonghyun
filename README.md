@@ -1,20 +1,20 @@
 <body>
-    <div align = "center">
-      <h2>Hi , This is Jeonghyun 👋 </h2>
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hanjeonghyun&theme=highcontrast"
-        alt="hanjeonghyun"
-      />
-        <br />
-        <br />
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=augseven"
+    <div align="center">
+      <h2> 💫 Jeong hyun 💫 </h2>
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanjeonghyun&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
+        <img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=augseven"
         alt = "https://solved.ac/augseven" />
+        <br/>
+        <br/>
+        <p> ⭐️ UMC 5th Web (23.09 ~ )</p>
+        <br />
+        <br />
+        <br />
         <br />
         <br />
       <details>
         <summary>
-           I am learning ... 
+          ✏️ I am learning ... 
         </summary>
         <P>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -25,7 +25,7 @@
       </details>
       <details>
         <summary>
-           I want to learn ...
+           ✏️ I want to learn ...
         </summary>
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
