@@ -14,10 +14,6 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </div>
-    <div style="flex: 1; text-align: right; width=50%">
-      <p>UMC 5th Web</p>
-      <p>GDSC soookmyung 4th</p>
-    </div>
   </div>
 </body>
     <!-- <h3>EXPERIENCES</h3> -->
