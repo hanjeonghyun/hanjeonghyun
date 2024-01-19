@@ -1,6 +1,6 @@
 <div align=center>
 
-## 💫 Jeong hyun | 정현💫 ##
+## 💫 Jeong hyun  |  정현💫 ##
 
 </div>
 
