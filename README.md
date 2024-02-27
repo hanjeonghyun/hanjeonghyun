@@ -29,7 +29,16 @@
   
 ## PROJECT ##
 
+| Title      | Content     | Stack         | More |
+|------------|-------------|---------------|------|
+| SurveyMate | 대학생을 위한 설문 중개 서비스 | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <br /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> |      |
+| Carea      | 자립준비청년을 위한 커뮤니티 어플리케이션       | <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />       |      |
 
 
 </div>
+
+## AWARDS ##
+
+- Participated in Sookmyung X Sungshin Women's University Ideathon - Grand Award 🏆 `[2023.06]`
+- Participated in Sookmyung X Kookmin University Hackathon'The 2nd COKOTHON' -  Excellence Award 🏆 `[2023.12]`
 </div>
