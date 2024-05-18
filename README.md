@@ -22,6 +22,8 @@
 ## EXPERIENCES ##
 - UMC 5th Web `2023.9 - 2024.2`
 - GDSC Sookmyung 4th `2023.10 - 2024.08`
+- Codeit boost 1th PowerBoost Web `2024.5 - 2025.2`
+- MVP Supporters 잇(IT)다 5th `2024.3 - 2024.6`
 
 </div>
 
