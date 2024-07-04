@@ -7,6 +7,16 @@
 <div style="display:flex; flex-direction:row; justify-content:space-between; flex-wrap:wrap;">
 <div style="width:50%; flex-wrap:wrap;">
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hanjeonghyun?pet-id=596651130434115154"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## STACKS ##
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
