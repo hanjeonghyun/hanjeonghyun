@@ -4,16 +4,16 @@
 
 </div>
 
-<div style="display:flex; flex-direction:row; justify-content:space-between; flex-wrap:wrap;">
+<div style="display:flex; flex-direction:row; justify-content:center; flex-wrap:wrap;">
 <div style="width:50%; flex-wrap:wrap;">
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hanjeonghyun?pet-id=596651130434115154"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/hanjeonghyun"
+  width="600"
+  height="300"
+/>
 </a>
   
 
