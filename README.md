@@ -50,7 +50,7 @@
 | Title      | Description                          | Stack                                                                                                          | Role                | Duration        | More |
 |------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-----------------|------|
 | 체크메이트 | 교내 행사 통합 관리 시스템         | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil Badge" /> | Frontend Developer | 2024.06 - |  |
-| SurveyMate | 대학생을 위한 설문 중개 서비스          | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil Badge" /> | Frontend Developer | 2024.01 - 2024.03 | [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)]([https://your-tistory-link.com](https://asmallroom.tistory.com/7)) |
+| SurveyMate | 대학생을 위한 설문 중개 서비스          | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil Badge" /> | Frontend Developer | 2024.01 - 2024.03 | [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://asmallroom.tistory.com/7) |
 
 
 
