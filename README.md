@@ -1,9 +1,9 @@
 ## Links
 
 <div align="center">
-  <a href="https://limithyun.notion.site/314a617c39be40ec9da4237eb4522f40?pvs=74">
+<!--   <a href="https://limithyun.notion.site/314a617c39be40ec9da4237eb4522f40?pvs=74">
     👨‍💻 <strong>Resume</strong>
-  </a> &nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp; -->
   <a href="https://asmallroom.tistory.com/">
     📋 <strong>Blog</strong>
   </a>
