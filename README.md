@@ -1,14 +1,3 @@
-## Links
-
-<div align="center">
-<!--   <a href="https://limithyun.notion.site/314a617c39be40ec9da4237eb4522f40?pvs=74">
-    👨‍💻 <strong>Resume</strong>
-  </a> &nbsp;&nbsp;&nbsp; -->
-  <a href="https://asmallroom.tistory.com/">
-    📋 <strong>Blog</strong>
-  </a>
-</div>
-
   ## 🛠 STACKS
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 15px; background-color: #ffffff; border-radius: 8px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);">
