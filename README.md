@@ -7,6 +7,7 @@
   ![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
   ![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  
   ![Recoil Badge](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white) 
   ![Flutter Badge](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![GitHub Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
