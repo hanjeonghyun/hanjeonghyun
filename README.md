@@ -17,10 +17,8 @@
 
 ## 🏆 AWARDS
 
-- **Grand Award 🏆** in Sookmyung X Sungshin Women's University Ideathon  
-  [2023.06]
-- **Excellence Award 🏆** in Sookmyung X Kookmin University Hackathon 'The 2nd COKOTHON'  
-  [2023.12]
+- **Grand Award 🏆** in Sookmyung X Sungshin Women's University Ideathon `2023.06`
+- **Excellence Award 🏆** in Sookmyung X Kookmin University Hackathon 'The 2nd COKOTHON' `2023.12`
 
 ## 🌟 EXPERIENCES
 
