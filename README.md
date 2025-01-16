@@ -25,7 +25,6 @@
 - **UMC 5th Web** `2023.09 - 2024.02`
 - **GDSC Sookmyung 4th** `2023.10 - 2024.08`
 - **MVP Supporters 잇(IT)다 5th** `2024.03 - 2024.06`
-- **Codeit Boost 1st PowerBoost Web** `2024.05 - 2025.02`
   
 ## 🚀 PROJECTS
 
