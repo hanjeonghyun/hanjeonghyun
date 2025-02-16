@@ -34,4 +34,4 @@
 | **SurveyMate**                  | 대학생을 위한 설문 중개 서비스 | React   | 2024.01 - 2024.03 | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hanjeonghyun/surveymate) |
 | **독거노인 고독사 방지 시스템**    | 독거노인 고독사 방지 시스템      | NextJS  | 2024.03 - 2024.06 | -                                                                                                         |
 | **체크메이트**                   | 교내 행사 통합 관리 시스템       | React   | 2024.05 - 2024.09 | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/CheckMate-sookmyung/CheckMate-client) |
-| **EZZOOM**                   | 줌 로그 자동 분석 시스템     | React   | 2024.01 - ing | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/EZZ00M) |
+| **EZZOOM**                   | 줌 로그 자동 분석 시스템     | React   | 2024.01 | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/EZZ00M) |
